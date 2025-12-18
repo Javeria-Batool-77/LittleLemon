@@ -1,0 +1,20 @@
+# Virtual Environment
+django_practice/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases (If using SQLite locally)
+*.sqlite3
+
+# OS related files
+.DS_Store
+Thumbs.db
+
+# Sensitive information
+.env
