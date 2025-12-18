@@ -1,11 +1,5 @@
-# LittleLemon
-<html>
-   <head>
-      <title>Capstone Project</title>
-   </head>
-   <body>
-      {% load static %}
-      <img src="{% static 'restaurant/littlelemon.png' %}">
-      <h1 style="text-align:center;">Welcome ToLittleLemon Restaurant</h1>
-   </body>
-</html>
+/restaurant/bookings/
+/restaurant/registration/
+
+OR
+/auth/users/
